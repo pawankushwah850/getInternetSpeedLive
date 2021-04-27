@@ -31,10 +31,9 @@
 ### Run is method which is imported from subprocess module. 
   Actully, Run is method which read output from terminal as string. 
     
- Author : Pawan kushwah 
- Profession : software engineer
- Language : Python, javascript(side language)
- framework : Django, Django Rest framework, electron,express.
- version control : Gitlab, Github.
- 
- contact info >  pawankushwah850@gmail.com
+##### Author : Pawan kushwah
+##### Profession : software engineer
+##### Language : Python, javascript(side language)
+##### framework : Django, Django Rest framework, electron,express.
+##### version control : Gitlab, Github.
+##### contact info >  pawankushwah850@gmail.com
